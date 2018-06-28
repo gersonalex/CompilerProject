@@ -1,8 +1,6 @@
 %{
-// Arumugam T Pavai
-// SID: 005777795
+// Arumugam Thendramil Pavai
 // CSE COMPILERS PROJECT
-// Please refer to Output.docx for Report and References
 
 #include <stdio.h>
 #include <stdlib.h>
