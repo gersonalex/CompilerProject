@@ -15,3 +15,10 @@ bison -dy input.y
 
 gcc lex.yy.c y.tab.c
 
+REFERENCES: 
+
+[1] Given textbook for Lex and Yacc , http://epaperpress.com/lexandyacc/
+
+[2] Lex tutorial, http://aquamentus.com/tut_lexyacc.html
+
+
